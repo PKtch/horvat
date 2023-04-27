@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://pktch.github.io/horvat/desert-of-post-socialism/",
+            "url": "https://pktch.github.io/horvat/desert-of-post-socialism/",
+            "title": "Desert of Post-Socialism",
+            "summary": "Igor Stiks, Srecko Horvat Welcome to the Desert of Post-Socialism : Radical Politics After Yugoslavia This volume offers a profound analysis of post-socialist economic and political transformation in the Balkans, involving deeply unequal societies and oligarchical \"democracies.\" The contributions deconstruct the persistent imaginary of the&hellip;",
+            "content_html": "\n    <h6 id=\"igor-stiks-srecko-horvat\">\n      Igor Stiks, Srecko Horvat\n    </h6>\n\n    <h1 id=\"welcome-to-the-desert-of-postsocialism--radical-politics-after-yugoslavia\">\n      Welcome to the Desert of Post-Socialism : Radical Politics After Yugoslavia\n    </h1>\n\n  <p>\n    This volume offers a profound analysis of post-socialist economic and political transformation in the Balkans, involving deeply unequal societies and oligarchical \"democracies.\" The contributions deconstruct the persistent imaginary of the Balkans, pervasive among outsiders to the region, who see it as no more than a repository of ethnic conflict, corruption and violence. Providing a much needed critical examination of the Yugoslav socialist experience, the volume sheds light on the recent rebirth of radical politics in the Balkans, where new groups and movements struggle for a radically democratic vision of society.<br>This volume offers a profound analysis of post-socialist economic and political transformation in the Balkans, involving deeply unequal societies and oligarchical “democracies.” The contributions deconstruct the persistent imaginary of the Balkans, pervasive among outsiders to the region, who see it as no more than a repository of ethnic conflict, corruption and violence. Providing a much needed critical examination of the Yugoslav socialist experience, the volume sheds light on the recent rebirth of radical politics in the Balkans, where new groups and movements struggle for a radically democratic vision of society.\n  </p>",
+            "image": "https://pktch.github.io/horvat/media/posts/11/wtpsy3.png",
+            "author": {
+                "name": "Horvat"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-04-27T03:46:34+02:00",
+            "date_modified": "2023-04-27T03:46:56+02:00"
+        },
+        {
             "id": "https://pktch.github.io/horvat/after-the-apocalypse/",
             "url": "https://pktch.github.io/horvat/after-the-apocalypse/",
             "title": "After the Apocalypse",
@@ -145,21 +160,6 @@
             ],
             "date_published": "2023-04-25T01:01:52+02:00",
             "date_modified": "2023-04-27T02:32:47+02:00"
-        },
-        {
-            "id": "https://pktch.github.io/horvat/about-srecko-horvat/",
-            "url": "https://pktch.github.io/horvat/about-srecko-horvat/",
-            "title": "Philosopher, author, activist",
-            "summary": "Foto: Oliver Abraham “One of the most exciting voices of his generation.” This is how the German weekly Der Freitag described Srećko Horvat, a Croatian philosopher and author who produced a blizzard of political works – with several books published when he was barely into&hellip;",
-            "content_html": "\n  <p class=\"photocredit\">\n    <i>Foto: Oliver Abraham</i>\n  </p>\n\n    <h1 id=\"about\">\n      Srećko Horvat – philosopher, author, speaker, activist\n    </h1>\n\n  <p>\n    “One of the most exciting voices of his generation.” This is how the German weekly Der Freitag described Srećko Horvat, a Croatian philosopher and author who produced a blizzard of political works – with several books published when he was barely into his thirties. Nowadays he is known as a fiery voice of dissent in the Post-Yugoslav landscape.<br><br>If you aren’t familiar with Horvat’s work, you can probably recognise a lot of people who are. He is friends with the former Greek finance minister Yanis Varoufakis; had regular visits with Julian Assange, founder of WikiLeaks, an organisation that publishes news leaks and classified media provided by anonymous sources. He is also a staunch friend of Slavoj Žižek, the maverick Slovenian celebrity academic with whom Horvat co-wrote a book in 2013 entitled “What Does Europe Want?”.<br><br>His writings have appeared in The New York Times, The Guardian and Der Spiegel. Aside from co-founding DiEM25, which campaigns to reform the EU into a “realm of shared prosperity, peace and solidarity”, he is a founder of the Subversive festival, an annual jamboree in Zagreb of radical thought that has featured the likes of Oliver Stone and Antonio Negri.\n  </p>",
-            "image": "https://pktch.github.io/horvat/media/posts/1/horvat_srecko_1120ws.jpg",
-            "author": {
-                "name": "Horvat"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-04-25T00:02:19+02:00",
-            "date_modified": "2023-04-27T02:01:33+02:00"
         }
     ]
 }
