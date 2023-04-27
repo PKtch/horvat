@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://pktch.github.io/horvat/after-the-apocalypse/",
+            "url": "https://pktch.github.io/horvat/after-the-apocalypse/",
+            "title": "After the Apocalypse",
+            "summary": "After the Apocalypse Rapidly melting ice, rising sea levels and flooded cities, hurricanes, wildfires and droughts, mass migration and conflicts, climate apartheid and mass extinction: this has become our new reality and now we must prepare ourselves for what comes after.In this post-apocalyptic rollercoaster ride&hellip;",
+            "content_html": "\n    <h1 id=\"after-the-apocalypse\">\n      After the Apocalypse\n    </h1>\n\n  <p>\n    Rapidly melting ice, rising sea levels and flooded cities, hurricanes, wildfires and droughts, mass migration and conflicts, climate apartheid and mass extinction: this has become our new reality and now we must prepare ourselves for what comes after.In this post-apocalyptic rollercoaster ride through our possible futures, philosopher Srećko Horvat investigates the notion of the Apocalypse and suggests that the only way to prevent the end of the world as we know it is to engage in a 'speculative critical theory' that is not afraid to turn the current apocalyptic narrative upside-down and reveal its true ideological core. Why is everyone so obsessed with the Apocalypse? How can we explain the success of TV series like 'Chernobyl', phenomena such as 'dark tourism' or what Horvat calls the 'commodification of the Apocalypse'? Why do some people empathize with the burning of Notre Dame and the flooding of Venice but not with other major catastrophies? What can popular culture and place-making, climate crisis and nuclear disasters tell us about the Apocalypse, and what can the notion of 'the end' teach us about constructing a different future? While everyone is worried about the coming end, Horvat offers us glimpses of the possible futures.After the Apocalypse, a book of science-fiction philosophy, leads us on a whirlwind tour from different actually existing places like the exclusion zone of Chernobyl and the quickly changing Mediterranean to the imaginary places of the future.\n  </p>",
+            "image": "https://pktch.github.io/horvat/media/posts/10/After3.png",
+            "author": {
+                "name": "Horvat"
+            },
+            "tags": [
+                   "Books"
+            ],
+            "date_published": "2023-04-27T03:26:19+02:00",
+            "date_modified": "2023-04-27T03:27:37+02:00"
+        },
+        {
             "id": "https://pktch.github.io/horvat/videos/",
             "url": "https://pktch.github.io/horvat/videos/",
             "title": "Videos",
@@ -22,7 +38,7 @@
             "tags": [
             ],
             "date_published": "2023-04-27T02:50:45+02:00",
-            "date_modified": "2023-04-27T03:13:19+02:00"
+            "date_modified": "2023-04-27T03:14:32+02:00"
         },
         {
             "id": "https://pktch.github.io/horvat/restoring-trust-how-to-solve-the-next-generation-of-privacy-and-security-dilemmas/",
